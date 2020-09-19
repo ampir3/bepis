@@ -6,6 +6,6 @@
 
 #bepis {
     animation-name: blink;
-    animation-duration: 250ms;
+    animation-duration: 1s;
     animation-iteration-count: infinite;
 }
