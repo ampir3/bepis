@@ -1,0 +1,11 @@
+
+@keyframes blink {
+    from {color: white;}
+    to {color: red;}
+}
+
+#bepis {
+    animation-name: blink;
+    animation-duration: 250ms;
+    animation-iteration-count: infinite;
+}
